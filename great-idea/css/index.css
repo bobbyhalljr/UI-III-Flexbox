@@ -233,3 +233,49 @@ small {
 	list-style-type: square;
 	margin: 20px 0 0 20px;
 }
+
+/* Start of Product page */
+
+.main-cta {
+	background: #f1f1f1;
+	text-align: center;
+	padding: 20px 0;
+}
+
+.main-cta h1 {
+	font-size: 40px;
+}
+
+.main-cta h2 {
+	font-size: 20px;
+}
+
+.main-cta button {
+	padding: 10px 80px;
+	background: skyblue;
+	border: none;
+	border-radius: 10px;
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+.main-product {
+	display: flex;
+	margin: 40px auto;
+}
+
+.product-box {
+	padding: 10px;
+	border: 1px solid #000;
+	margin: 0 10px;
+	background: #f1f1f1;
+}
+
+.product-box button {
+	margin-top: 20px;
+	background: skyblue;
+	border: none;
+	border-radius: 10px;
+	padding: 5px 20px;
+	font-size: 15px;
+}
